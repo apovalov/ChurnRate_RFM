@@ -34,7 +34,9 @@ n_solved - how many submits were successful.
 The table should be sorted by user_id and day.
 
 ```
-One line = one attempt to solve some problem by some student. The time, the score obtained, the number of attempts to solve this problem by this student (the more tries - the better understanding.... if, of course, the student can solve the problem at all), success or failure of the solution.
+One line = one attempt to solve some problem by some student.
+The time, the score obtained, the number of attempts to solve this problem by this student (the more tries - the better understanding....
+if, of course, the student can solve the problem at all), success or failure of the solution.
 ```
 
 # 2.Negatives Mining
@@ -52,8 +54,6 @@ Recency - how long ago was the last transaction/event/action?
 Frequency - how often have transactions/events/actions occurred in the last N days?
 Monetary - how much money has the user spent in the last N days?
 
-
-# Feature Descriptions
 
 The following features represent user engagement and activity, which are used for predictive modeling:
 
